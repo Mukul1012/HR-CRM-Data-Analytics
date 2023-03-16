@@ -7,6 +7,7 @@ were the reasons when people were not able to attend work.
 The data contains Full names, Employee ID , Dates and an Attendance Key.
 
 The data has been cleaned and visualised in order to answer HR related questions such as:
+
 1."What days are prefered for work from home?"
 -Friday and Monday were found out to be the days were Work from home was preferred.
 
