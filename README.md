@@ -8,4 +8,9 @@ The data contains Full names, Employee ID , Dates and an Attendance Key.
 
 The data has been cleaned and visualised in order to answer HR related questions such as "What days are prefered for work from home?",
 "When do people usually tend to apply for Sick Leaves?".
+Friday seems to have highest percentage of Work from home and Sick Leaves applications as seen in the preview image
 The Dashboard created on PowerBI gives information about the overall trend as well.
+
+
+
+![image](https://user-images.githubusercontent.com/103978449/225669629-ad7db436-2dea-4cab-88a7-635a71565c5d.png)
